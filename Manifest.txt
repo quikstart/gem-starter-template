@@ -3,7 +3,7 @@
 ---
 Manifest.txt
 HISTORY.md
-README.txt
+README.md
 Rakefile
 lib/{{filename}}.rb
 lib/{{filename}}/version.rb
