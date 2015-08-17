@@ -1,0 +1,9 @@
+---
+# Gem Starter Template
+---
+Manifest.txt
+HISTORY.md
+README.txt
+Rakefile
+lib/{{filename}}.rb
+lib/{{filename}}/version.rb
