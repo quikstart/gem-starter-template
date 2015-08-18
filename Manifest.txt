@@ -1,9 +1,6 @@
----
-# Gem Starter Template
----
 Manifest.txt
 HISTORY.md
 README.md
 Rakefile
-lib/{{filename}}.rb
-lib/{{filename}}/version.rb
+lib/$filename$.rb
+lib/$filename$/version.rb
