@@ -1,8 +1,20 @@
-# $name$
+# gem starter template
 
 
-## Usage
+Use like:
 
-Add use here
+```
+$ quik new gem
+```
 
+Resulting in:
+
+```
+```
+
+
+
+## Questions? Comments?
+
+...
 
