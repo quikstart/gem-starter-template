@@ -1,7 +1,7 @@
 # $name$
 
-* home  :: TODO: add link
-* bugs  :: TODO: add link
+* home  :: FIX: add link
+* bugs  :: FIX: add link
 * gem   :: [rubygems.org/gems/$name$](https://rubygems.org/gems/$name$)
 * rdoc  :: [rubydoc.info/gems/$name$](http://rubydoc.info/gems/$name$)
 
@@ -9,7 +9,7 @@
 
 ## Usage
 
-TODO: add usage
+FIX: add usage
 
 
 

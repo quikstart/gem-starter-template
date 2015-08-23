@@ -5,12 +5,12 @@ Hoe.spec '$name$' do
 
   self.version = $module$::VERSION
 
-  self.summary = '$name$ - TODO: add summary'
+  self.summary = '$name$ - FIX: add summary'
   self.description = summary
 
-  self.urls    = ['TODO: add url']
+  self.urls    = ['FIX: add url']
 
-  self.author  = 'TODO: add author'
+  self.author  = 'FIX: add author'
   self.email   = 'ruby-talk@ruby-lang.org'
 
   # switch extension to .markdown for gihub formatting

@@ -1,6 +1,8 @@
-Manifest.txt
 HISTORY.md
+Manifest.txt
 README.md
 Rakefile
 lib/$filename$.rb
 lib/$filename$/version.rb
+test/helper.rb
+test/test_versin.rb
