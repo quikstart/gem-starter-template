@@ -5,4 +5,4 @@ Rakefile
 lib/$filename$.rb
 lib/$filename$/version.rb
 test/helper.rb
-test/test_versin.rb
+test/test_version.rb
